@@ -4,96 +4,96 @@
       "name": "Skinsheen Bronzer Stick",
       "category": ["Featured", "Bestsellers"],
       "price": {
-        "new": 29.5
+        "new": "29.5"
       }
     },
     {
       "name": "BeneFit Girl Meets Pearl",
       "category": ["Featured", "Specials"],
       "price": {
-        "old": 30.0,
-        "new": 19.0
+        "old": "30.0",
+        "new": "19.0"
       }
     },
     {
       "name": "Benefit Bella Bamba",
       "category": ["Featured"],
       "price": {
-        "new": 28.0
+        "new": "28.0"
       }
     },
     {
       "name": "Tropiques Minerale Loose Bronzer",
       "category": ["Featured"],
       "price": {
-        "new": 38.5
+        "new": "38.5"
       }
     },
     {
       "name": "Absolute Anti-Age Spot Replenishing Unifying TreatmentSPF 15",
       "category": ["Latest Products"],
       "price": {
-        "new": 42.0
+        "new": "42.0"
       }
     },
     {
       "name": "Absolue Eye Precious Cells",
       "category": ["Latest Products", "Specials"],
       "price": {
-        "old": 105.0,
-        "new": 89.0
+        "old": "105.0",
+        "new": "89.0"
       }
     },
     {
       "name": "Total Moisture Facial Cream",
       "category": ["Latest Products"],
       "price": {
-        "new": 38.0
+        "new": "38.0"
       }
     },
     {
       "name": "Flash Bronzer Body Gel",
       "category": ["Latest Products"],
       "price": {
-        "old": 34.5,
-        "new": 29.0
+        "old": "34.5",
+        "new": "29.0"
       }
     },
     {
       "name": "New Ladies High Wedge Heel Toe Thong Diamante Flip Flop Sandals",
       "category": ["Bestsellers"],
       "price": {
-        "new": 26.0
+        "new": "26.0"
       }
     },
     {
       "name": "Casual 3/4 Sleeve Baseball T-Shirt",
       "category": ["Bestsellers"],
       "price": {
-        "new": 14.0
+        "new": "14.0"
       }
     },
     {
       "name": "ck one shock for him Deodorant",
       "category": ["Bestsellers"],
       "price": {
-        "new": 14.0
+        "new": "14.0"
       }
     },
     {
       "name": "Acqua Di Gio Pour Homme",
       "category": ["Specials"],
       "price": {
-        "old": 59.0,
-        "new": 45.0
+        "old": "59.0",
+        "new": "45.0"
       }
     },
     {
       "name": "Brunette expressions Conditioner",
       "category": ["Specials"],
       "price": {
-        "old": 27.0,
-        "new": 24.0
+        "old": "27.0",
+        "new": "24.0"
       }
     }
   ]

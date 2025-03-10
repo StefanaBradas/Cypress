@@ -2,7 +2,10 @@
 
 import homePage from "../../support/pages/homePage";
 
-it.only("Verify all items data", () => {
-  cy.visit("https://automationteststore.com/");
-  const json = homePage.verifyProductData("Skinsheen Bronzer Stick");
+it("Verifyall items data", async() => {
+    cy.visit("https://automationteststore.com/")
+
+//   console.log(homePage.returnExpectedJsonItem("Skinsheen Bronzer Stick"));
+  homePage.verifyItemData("Skinsheen Bronzer Stick")
+  homePage.verifyItemData("BeneFit Girl Meets Pearl")
 });
