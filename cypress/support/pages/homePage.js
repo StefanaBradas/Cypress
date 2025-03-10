@@ -48,7 +48,7 @@ class HomePage {
     })
   }
 
-  async verifyItemData (itemName) {                                                      // OPTION 1
+  async verifyItemData (itemName) {                                                      // OPTION 2
     const expectedJsonItem =  this.#returnExpectedJsonItem(itemName)
     const indexArray = await this.#returnItemIndexArray(itemName)
 
@@ -65,7 +65,7 @@ class HomePage {
         });
     })
   }
-  
+
 }
 
 export default new HomePage();
